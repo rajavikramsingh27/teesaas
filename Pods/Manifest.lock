@@ -1,0 +1,44 @@
+PODS:
+  - AnimatedCollectionViewLayout (1.0.1)
+  - CSPieChart (1.0)
+  - HCLineChartView (1.0.2)
+  - IQKeyboardManager (6.5.4)
+  - KDCircularProgress (1.5.4)
+  - KUIPopOver (1.2.0)
+  - PanModal (1.2.5)
+  - SVPinView (1.0.7)
+
+DEPENDENCIES:
+  - AnimatedCollectionViewLayout
+  - CSPieChart
+  - HCLineChartView
+  - IQKeyboardManager
+  - KDCircularProgress
+  - KUIPopOver
+  - PanModal
+  - SVPinView (~> 1.0)
+
+SPEC REPOS:
+  trunk:
+    - AnimatedCollectionViewLayout
+    - CSPieChart
+    - HCLineChartView
+    - IQKeyboardManager
+    - KDCircularProgress
+    - KUIPopOver
+    - PanModal
+    - SVPinView
+
+SPEC CHECKSUMS:
+  AnimatedCollectionViewLayout: 00f0997fd26f0fd02d8b99765023b95570b5d826
+  CSPieChart: 45cb050fb963603995490a6ee825b075211f0d3e
+  HCLineChartView: a57d519fc937bc9e17d870d61fca2703d30e1a28
+  IQKeyboardManager: 72b359cd7e777e3a984cedbe05f8da45320cbb63
+  KDCircularProgress: 98200c6b8e85d22bc04eb644721d3b1e12b0686b
+  KUIPopOver: 71644b6a9219a1d175aba44e06d02f1b70aa4b77
+  PanModal: 7c5af3ad4fe22b91508040965bebffb89fb607ae
+  SVPinView: 6c1da57e4a1273298802f460c60511ba10f7c831
+
+PODFILE CHECKSUM: 2e19670f30dfeb66a3eb1a937f4d06efc13491de
+
+COCOAPODS: 1.8.4

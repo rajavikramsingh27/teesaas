@@ -1,0 +1,9 @@
+${PODS_ROOT}/Target Support Files/Pods-Teesas/Pods-Teesas-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AnimatedCollectionViewLayout/AnimatedCollectionViewLayout.framework
+${BUILT_PRODUCTS_DIR}/CSPieChart/CSPieChart.framework
+${BUILT_PRODUCTS_DIR}/HCLineChartView/HCLineChartView.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManager/IQKeyboardManager.framework
+${BUILT_PRODUCTS_DIR}/KDCircularProgress/KDCircularProgress.framework
+${BUILT_PRODUCTS_DIR}/KUIPopOver/KUIPopOver.framework
+${BUILT_PRODUCTS_DIR}/PanModal/PanModal.framework
+${BUILT_PRODUCTS_DIR}/SVPinView/SVPinView.framework
